@@ -1,0 +1,15 @@
+body{
+    background-color: pink;
+}
+
+table{
+    border : black solid;
+    border-collapse: collapse;
+    background-color: rgb(192, 192, 192);
+    margin : 20px;
+}
+tr, td, tfoot, thead{
+    border : black solid;
+    padding : 5px 50px;
+    text-align: center;
+}
